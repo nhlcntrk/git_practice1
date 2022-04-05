@@ -4,4 +4,9 @@ public class HelloWorld {
 
 //doing awesome 2 !
 
+    //doing awesome 3
+
+    //Awesome work 3 is done
+
+    //and ready to be pushed to remote depository
 }
